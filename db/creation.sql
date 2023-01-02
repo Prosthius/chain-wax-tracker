@@ -1,0 +1,4 @@
+-- CREATE DATABASE [chain-wax-tracker];
+-- GO
+-- USE [chain-wax-tracker];
+-- GO
